@@ -1,0 +1,14 @@
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\obj\Debug\net8.0-windows\SodukoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\obj\Debug\net8.0-windows\SodukoGame.AssemblyInfoInputs.cache
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\obj\Debug\net8.0-windows\SodukoGame.AssemblyInfo.cs
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\obj\Debug\net8.0-windows\SodukoGame.csproj.CoreCompileInputs.cache
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\bin\Debug\net8.0-windows\SodukoGame.exe
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\bin\Debug\net8.0-windows\SodukoGame.deps.json
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\bin\Debug\net8.0-windows\SodukoGame.runtimeconfig.json
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\bin\Debug\net8.0-windows\SodukoGame.dll
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\bin\Debug\net8.0-windows\SodukoGame.pdb
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\obj\Debug\net8.0-windows\SodukoGame.dll
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\obj\Debug\net8.0-windows\refint\SodukoGame.dll
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\obj\Debug\net8.0-windows\SodukoGame.pdb
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\obj\Debug\net8.0-windows\SodukoGame.genruntimeconfig.cache
+C:\Users\zeine\Desktop\Soduko\GameSoduko\SodukoGame\obj\Debug\net8.0-windows\ref\SodukoGame.dll
