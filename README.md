@@ -17,3 +17,6 @@ A classic Sudoku puzzle game built with C# and Windows Forms.
  Clone the repository:
    ```bash
    git clone https://github.com/your-username/SudokuGame.git
+Created by Med Amine chehoudi
+Contact:  medchehoudi@gmail.com
+
