@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zeine\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\SodukoGame.csproj": {}
+    "C:\\Users\\chahden\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\SodukoGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zeine\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\SodukoGame.csproj": {
+    "C:\\Users\\chahden\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\SodukoGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zeine\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\SodukoGame.csproj",
+        "projectUniqueName": "C:\\Users\\chahden\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\SodukoGame.csproj",
         "projectName": "SodukoGame",
-        "projectPath": "C:\\Users\\zeine\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\SodukoGame.csproj",
-        "packagesPath": "C:\\Users\\zeine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zeine\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\obj\\",
+        "projectPath": "C:\\Users\\chahden\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\SodukoGame.csproj",
+        "packagesPath": "C:\\Users\\chahden\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chahden\\Desktop\\Soduko\\GameSoduko\\SodukoGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zeine\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\chahden\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"

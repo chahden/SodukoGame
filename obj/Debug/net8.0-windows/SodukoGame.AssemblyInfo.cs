@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SodukoGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ebf41e726adb4008f9851aeefefe4caa8d51a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SodukoGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SodukoGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
